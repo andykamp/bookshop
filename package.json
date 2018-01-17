@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node apiServer.js && node ./bin/www"
+    "start": "start node apiServer.js && node ./bin/www"
   },
   "dependencies": {
     "axios": "^0.17.1",
